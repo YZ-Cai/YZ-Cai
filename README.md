@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yz-cai&layout=compact)
+![YZ-Cai's GitHub stats](https://github-readme-stats.vercel.app/api?username=YZ-Cai&hide=contribs,issues)

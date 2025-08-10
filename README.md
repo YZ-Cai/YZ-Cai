@@ -8,9 +8,9 @@
 
 💡 **Research Interests:**  
 
-Structured and Unstructured Information Retrieval, including
+Information Retrieval, including
 - Retrieval-Augmented Generation (RAG)
-- Vector Similarity Search (Approximate Nearest Neighbor Search, ANNS)
+- Vector Retrieval (Approximate Nearest Neighbor Search, ANNS)
 - Graph Retrieval
 
 <br/>
